@@ -1,0 +1,62 @@
+Car Dealership Sales Log
+
+Carol  Car: Tesla Model S  £14,500  Guildford  Cash  9528512  05/12/2024
+Frank  Car: BMW 3 Series  £14,500  Epsom  Card  1575577  12/08/2024
+Dave  Car: Audi A4  £13,500  Woking  Card  1575577  15/09/2024
+Bob  Car: Tesla Model S  £13,000  Epsom  Cash  4766371  05/12/2024
+Carol  Car: Audi A4  £13,500  Woking  Card  1575577  05/12/2024
+Bob  Car: Ford Mustang  £13,500  Woking  Cash  1713895  12/08/2024
+Ivy  Car: Toyota Corolla  £13,000  Guildford  Cash  9625482  20/10/2024
+Frank  Car: Ford Mustang  £13,500  Guildford  Card  1575577  01/11/2024
+Hank  Car: Tesla Model S  £13,500  Redhill  Card  1575577  12/08/2024
+Jack  Car: Honda Civic  £12,500  Woking  Cash  1713895  12/08/2024
+Tina  Car: Tesla Model S  £13,500  Redhill  Card  1575577  12/08/2024
+Olivia  Car: Tesla Model S  £14,500  Guildford  Cash  9528512  05/12/2024
+Alice  Car: Toyota Corolla  £13,000  Guildford  Cash  9625482  20/10/2024
+Daniel  Car: BMW 3 Series  £14,500  Epsom  Card  1575577  12/08/2024
+Laura  Car: Honda Civic  £12,500  Woking  Cash  1713895  12/08/2024
+Quinn  Car: Honda Civic  £12,500  Woking  Cash  1713895  12/08/2024
+Ian  Car: Tesla Model S  £13,500  Woking  Card  1575577  15/09/2024
+Katie  Car: Honda Civic  £12,500  Woking  Cash  1713895  12/08/2024
+Alice  Car: Tesla Model S  £13,500  Woking  Card  1575577  15/09/2024
+Finn  Car: Ford Mustang  £13,500  Woking  Cash  1713895  12/08/2024
+Holly  Car: Tesla Model S  £13,000  Epsom  Cash  4766371  05/12/2024
+Chloe  Car: Ford Mustang  £13,500  Woking  Cash  1713895  12/08/2024
+Ian  Car: BMW 3 Series  £14,500  Epsom  Card  1575577  12/08/2024
+Grace  Car: Ford Mustang  23,500  Woking  Cash  1713895  12/08/2024
+Alice  Car: Ford Mustang  £23,500  Woking  Cash  1713895  12/08/2024
+Xander  Car: Tesla Model S  £23,500  Redhill  Card  1575577  12/08/2024
+Ella  Car: Ford Mustang  £23,500  Guildford  Card  1575577  01/11/2024
+Jade  Car: Honda Civic  £12,500  Woking  Cash  1713895  12/08/2024
+Penny  Car: Ford Mustang  £23,500  Guildford  Card  1575577  01/11/2024
+Will  Car: Toyota Corolla  £13,000  Guildford  Cash  9625482  20/10/2024
+Xander  Car: Tesla Model S  £14,500  Guildford  Cash  9528512  05/12/2024
+Zoe  Car: Ford Mustang  £23,500  Woking  Cash  1713895  12/08/2024
+Kyle  Car: Ford Mustang  £33,500  Guildford  Card  1575577  01/11/2024
+Ryan  Car: Tesla Model S  £3,500  Redhill  Card  1575577  12/08/2024
+Nina  Car: Ford Mustang  £33,500  Guildford  Card  1575577  01/11/2024
+Aaron  Car: Toyota Corolla  £13,000  Guildford  Cash  9625482  20/10/2024
+Sophie  Car: Tesla Model S  £13,500  Woking  Card  1575577  15/09/2024
+Harry  Car: Honda Civic  £12,500  Woking  Cash  1713895  12/08/2024
+Jade  Car: Tesla Model S  £23,500  Woking  Card  1575577  05/12/2024
+Sophie  Car: BMW 3 Series  £14,500  Epsom  Card  1575577  12/08/2024
+Jake  Car: Ford Mustang  £23,500  Woking  Cash  1713895  12/08/2024
+Ethan  Car: Tesla Model S  £23,500  Woking  Card  1575577  05/12/2024
+Noah  Car: Tesla Model S  £23,000  Epsom  Cash  4766371  05/12/2024
+Quinn  Car: Tesla Model S  £14,500  Guildford  Cash  9528512  05/12/2024
+Sophie  Car: Tesla Model S  £13,500  Redhill  Card  1575577  12/08/2024
+Laura  Car: BMW 3 Series  £24,500  Epsom  Card  1575577  12/08/2024
+Laura  Car: Toyota Corolla  £13,000  Guildford  Cash  9625482  20/10/2024
+Katie  Car: Tesla Model S  £13,500  Woking  Card  1575577  15/09/2024
+Tom  Car: Tesla Model S  £13,000  Epsom  Cash  4766371  05/12/2024
+Ian  Car: Honda Civic  £12,500  Woking  Cash  1713895  12/08/2024
+Isla  Car: BMW 3 Series  £24,500  Epsom  Card  1575577  12/08/2024
+Ruby  Car: Tesla Model S  £3,500  Woking  Card  1575577  05/12/2024
+Ella  Car: Ford Mustang  £23,500  Woking  Cash  1713895  12/08/2024
+Tom  Car: Ford Mustang  £13,500  Woking  Cash  1713895  12/08/2024
+Finn  Car: Ford Mustang  £23,500  Woking  Cash  1713895  12/08/2024
+Liam  Car: Tesla Model S  £23,500  Woking  Card  1575577  15/09/2024
+Zack  Car: Tesla Model S  £13,500  Woking  Card  1575577  05/12/2024
+Alice  Car: BMW 3 Series  £24,500  Epsom  Card  1575577  12/08/2024
+Ethan  Car: Tesla Model S  £23,500  Woking  Card  1575577  05/12/2024
+Isla  Car: Tesla Model S  £24,500  Guildford  Cash  9528512  05/12/2024
