@@ -1,5 +1,5 @@
 # Architecture Diagram & Project Requirements
-![Architecture Diagram](../img/diagram.png)
+![Architecture Diagram](img/diagram.png)
 ## Requirement
 
 You have been approached by some local businesses (Cafe, Vets, Record Store, Car Dealership) to help them visualize their sales performance in terms of **sales and profit by store**.  
@@ -156,3 +156,4 @@ Bob Album: “Hotel California” £3.50 Woking Cash 1713895 12/08/2024
 - [GitHub Signup](https://github.com)  
 - [Microsoft Python Tutorials](https://www.youtube.com/watch?v=jFCNu1-Xdsw&t=1s)  
 - [VS Code Tutorial](https://www.youtube.com/watch?v=jFCNu1-Xdsw&t=1s)
+
