@@ -34,11 +34,52 @@ Explanation:
 ## 4. Tools and Technologies
 
 Python 3.9+ – data cleaning and ETL
-
 pandas, csv, re, datetime – parsing and transforming data
-
 Power BI – dashboard creation with KPIs and interactive charts
-
 Git & GitHub – version control
-
 VS Code – development environment
+
+## 5. Data Processing Steps
+
+1. **Load raw data**  
+   - Read data from `car_sales_raw.txt`
+
+2. **Anonymize PII**  
+   - Remove customer names  
+   - Remove card numbers  
+
+3. **Parse fields using regex**
+   - `product` — car model  
+   - `price` — sale price  
+   - `branch` — dealership location  
+   - `payment_type` — Cash or Card  
+   - `date` — sale date (converted to `datetime`)  
+   - `profit` — calculated using a 40% markup  
+
+4. **Export processed data**
+   - Save cleaned data to `car_sales_raw.csv`
+
+5. **Data validation**
+   - Verify data types  
+   - Check for missing values  
+   - Validate data consistency
+   - Save data to `car_sales_final.csv`
+  
+  ## 6. Power BI Dashboard Design
+
+### KPIs
+- **Total Sales**
+- **Total Profit**
+- **Total Transactions**
+- **Average Sale**
+
+### Visualizations
+- **Line chart** — sales trends over time  
+- **Bar chart** — sales by branch  
+- **Bar chart** — top-selling car models  
+- **Pie chart** — payment type distribution  
+
+### Interactivity
+- Filters for **Branch**, **product** and **Date**  
+- All KPIs and charts update dynamically based on selected filters
+
