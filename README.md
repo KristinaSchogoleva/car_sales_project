@@ -89,16 +89,16 @@ VS Code – development environment
 ```bash
 git clone https://github.com/YourUsername/car_sales_project.git
 ```
-###Install dependencies
+### Install dependencies
 ```bash
 pip install pandas
 ```
-###Run the ETL script
+### Run the ETL script
 ```bash
 python scripts/clean_txt_to_csv.py
 ```
 
-###Open the data in Power BI
+### Open the data in Power BI
 
 Open the file below in Power BI and build the dashboard:
 ```bash
