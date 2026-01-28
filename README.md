@@ -83,3 +83,24 @@ VS Code – development environment
 - Filters for **Branch**, **product** and **Date**  
 - All KPIs and charts update dynamically based on selected filters
 
+## 7. How to Run
+
+### Clone the repository
+```bash
+git clone https://github.com/YourUsername/car_sales_project.git
+```
+###Install dependencies
+```bash
+pip install pandas
+```
+###Run the ETL script
+```bash
+python scripts/clean_txt_to_csv.py
+```
+
+###Open the data in Power BI
+
+Open the file below in Power BI and build the dashboard:
+```bash
+data/processed/car_sales_final.csv
+```
