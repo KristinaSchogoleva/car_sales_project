@@ -83,6 +83,10 @@ VS Code – development environment
 - Filters for **Branch**, **product** and **Date**  
 - All KPIs and charts update dynamically based on selected filters
 
+
+View the interactive Power BI dashboard here:  
+[Car Sales Dashboard]()
+
 ## 7. How to Run
 
 ### Clone the repository
