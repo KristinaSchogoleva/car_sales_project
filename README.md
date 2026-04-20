@@ -1,4 +1,4 @@
-# Car Dealership Sales Dashboard Project
+# Car Dealership Sales Project
 
 ## 1. Project Overview
 This project is designed for a **local car dealership** to visualize sales and profit performance, as well as customer buying habits.  
