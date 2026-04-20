@@ -97,29 +97,9 @@ VS Code – development environment
    - Validate data consistency
    - Save data to `car_sales_final.csv`
   
-  ## 5. Power BI Dashboard Design
+ 
 
-### KPIs
-- **Total Sales**
-- **Total Profit**
-- **Total Transactions**
-- **Average Sale**
-
-### Visualizations
-- **Line chart** — sales trends over time  
-- **Bar chart** — sales by branch  
-- **Bar chart** — top-selling car models  
-- **Pie chart** — payment type distribution  
-
-### Interactivity
-- Filters for **Branch**, **product** and **Date**  
-- All KPIs and charts update dynamically based on selected filters
-
-
-View the interactive Power BI dashboard here:  
-[Car Sales Dashboard]()
-
-## 6. How to Run
+## 5. How to Run
 
 ### Clone the repository
 ```bash
