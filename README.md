@@ -14,7 +14,7 @@ This analysis was designed to answer:
 
 A sample Power BI dashboard is shown below:
 
-![Car Sales Dashboard](img/Car Dealership.jpg)
+![Car Sales Dashboard](img/Car_Dealership.jpg)
 
 ---
 ## Key Insights from the Data
