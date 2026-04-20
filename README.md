@@ -3,19 +3,51 @@
 ## 1. Project Overview
 This project is designed for a **local car dealership** to visualize sales and profit performance, as well as customer buying habits.  
 
-The dashboard provides insights into:
+This analysis was designed to answer:
 
-- Total sales and total profit by branch  
-- Customer purchase trends and frequency  
-- Payment type distribution (Cash vs Card)  
-- Top-selling car models  
-- Sales trends over time  
-
+- Which branches generate the highest revenue and profit?
+- Which car models perform best in terms of sales?
+- How do customer payment preferences differ?
+- What sales patterns and seasonality can be observed?
+  
 **Important:** Customer-sensitive information such as names and card numbers has been removed to ensure data privacy.
 
+A sample Power BI dashboard is shown below:
+
+![Car Sales Dashboard](images/dashboard.png)
+
 ---
+## Key Insights from the Data
 
+### Product Performance
+- Tesla Model S and Ford Mustang are the best-performing models in terms of sales and profitability.
+- BMW 3 Series shows strong performance in premium segments.
 
+### Branch Performance
+- Guildford and Woking generate the highest number of transactions and revenue.
+- Redhill shows lower transaction volume compared to other branches.
+
+### Profitability
+- Higher-priced vehicles contribute significantly to overall profit.
+- Premium sales generate the highest margins.
+
+### Payment Behaviour
+- Cash payments slightly dominate over card payments.
+- Card payments are more common for higher-value transactions.
+
+### Sales Trends
+- Peaks in sales are observed in August and December, indicating seasonal demand patterns.
+
+## Outcome
+
+This project demonstrates the ability to:
+
+- Build a full ETL pipeline from raw text data
+- Clean and anonymize sensitive information (PII compliance)
+- Engineer business-relevant metrics (profit calculation)
+- Design a Power BI dashboard
+- Extract actionable business insights
+- 
 # 2. Project Architecture
 
 ```text
@@ -28,10 +60,10 @@ Explanation:
 3. Load: Save cleaned data as car_sales_clean.csv
 4. Visualize: Import CSV into Power BI to create interactive KPIs, charts, and trends
 
-## 3. Project Structure
 
 
-## 4. Tools and Technologies
+
+## 3. Tools and Technologies
 
 Python 3.9+ – data cleaning and ETL
 pandas, csv, re, datetime – parsing and transforming data
@@ -39,7 +71,7 @@ Power BI – dashboard creation with KPIs and interactive charts
 Git & GitHub – version control
 VS Code – development environment
 
-## 5. Data Processing Steps
+## 4. Data Processing Steps
 
 1. **Load raw data**  
    - Read data from `car_sales_raw.txt`
@@ -65,7 +97,7 @@ VS Code – development environment
    - Validate data consistency
    - Save data to `car_sales_final.csv`
   
-  ## 6. Power BI Dashboard Design
+  ## 5. Power BI Dashboard Design
 
 ### KPIs
 - **Total Sales**
@@ -87,7 +119,7 @@ VS Code – development environment
 View the interactive Power BI dashboard here:  
 [Car Sales Dashboard]()
 
-## 7. How to Run
+## 6. How to Run
 
 ### Clone the repository
 ```bash
